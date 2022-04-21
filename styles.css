@@ -40,8 +40,26 @@ a:hover {
   }
 }
 
+@media (min-width: 700px) {
+  .info-text {
+    margin-left: 40px;
+  }
+}
+
+@media (hover: hover) {
+  .box {
+    background-color: black !important;
+  }
+}
+
+@media (hover: hover) {
+  .box {
+    background-color: black !important;
+  }
+}
+
 .info-text {
-  margin-left: 40px;
+  /* margin-left: 40px; */
 }
 
 .info-text h4 {
